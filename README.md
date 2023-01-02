@@ -204,6 +204,18 @@ Alternatively, you can specify a single test file to run at a time:
 $ python3 unittest -m tests/test_console.py
 ```
 
+## Team
+
+[![Seid Hamid](https://avatars.githubusercontent.com/u/106914453?v=4)](https://github.com/radu2022) | [![Leonnie Okojie](https://avatars.githubusercontent.com/u/107578166?v=4)](https://github.com/dewdrops77)
+:---:|:---:
+[Seid Hamid](https://github.com/radu2022) | [Leonnie Okojie](https://github.com/dewdrops77)
+
+## Authors :black_nib:
+---
+
+* [Seid Hamid Muhammed](https://github.com/radu2022) - Software Engineering student at  [alx School/ The Room]
+* [Leonnie Okojie ](https://github.com/dewdrops77) - Software Engineering student at [alx School/ The Room]
+
 ## Authors :black_nib:
 * **SEID HAMID** <[radu2022](https://github.com/radu2022)>
 * **Hazem Ben Abdallah** <[Hazem](https://github.com/Hazem722)>
