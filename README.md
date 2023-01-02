@@ -218,4 +218,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **SEID HAMID** <[radu2022](https://github.com/radu2022)>
-* **Hazem Ben Abdallah** <[Hazem](https://github.com/Hazem722)>
+* **HAZEM BEN ABDALLAH** <[Hazem](https://github.com/Hazem722)>
