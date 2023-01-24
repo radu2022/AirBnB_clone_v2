@@ -14,7 +14,7 @@ from fabric.api import env
 import re
 
 
-env.hosts = ['3.236.9.233', '44.200.93.43']
+env.hosts = ['18.235.234.1', '54.144.148.192']
 
 
 def do_pack():
@@ -91,7 +91,7 @@ def do_clean(number=0):
     dir_server = run("ls -1t /data/web_static/releases")
     dir_server_names = dir_server.split("\n")
     for i in dir_server_names[n:]:
-        if i is 'test':
+        if i == 'test':
             continue
         run("rm -rf /data/web_static/releases/{}"
             .format(i))
